@@ -1,4 +1,4 @@
+Root Directory of Day 0 tasks and challenges
 
-# holbertonschool-zero_day
-*First* Holberton School Project
-# holbertonschool-zero_day
+V/r
+   Jacob
