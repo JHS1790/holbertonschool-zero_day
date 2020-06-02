@@ -1,4 +1,4 @@
 
 # holbertonschool-zero_day
-*Emphasize* First _emphasize Holberton School Project
+*First* Holberton School Project
 # holbertonschool-zero_day
